@@ -1,3 +1,3 @@
-**Proyecto Proyect  Dev de comandos básicos de git.**
+# Proyecto Proyect  Dev de comandos básicos de git.
 
 El proyecto.
