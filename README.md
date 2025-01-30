@@ -36,3 +36,6 @@ Muestra el historial de commits.
 ### git status
 
 Muestra el estado del repositorio.
+
+### git log
+aidosfjoa
